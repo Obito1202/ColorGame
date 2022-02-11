@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Bowlby+One&family=Limelight&family=Luckiest+Guy&display=swap');
+
+header{
+    background-color: grey;
+    height: 50px;
+    
+}
+
+body{
+    color: rgb(243, 229, 233);
+    font-family: 'Bowlby One', cursive;
+
+}
+
+ul{
+    list-style-type:none;
+    float: right;
+}
+
+li{
+    float: left;
+    padding: 0px 10px
+}
+#ques{
+    background-image: linear-gradient(to right, rgb(216, 162, 162) , rgb(206, 153, 223));
+    text-align: center;
+    height: 100px;
+    font-size: 60px;
+    color: honeydew;
+    padding-top: 25px;
+    
+
+}
+
+#tryagain{
+    text-align: center;
+    font-family: 'Luckiest Guy', cursive;
+    background-color: rgba(0, 0, 0, 0);
+    font-size: 4rem;
+    height: 30px;
+}
+
+#try{
+    display: none;
+}
+
+.gamebar{
+background-color: rgba(216, 162, 162, 0);
+align-text: center;
+}
+
+h3{
+    /* display:inline-block;  */
+    text-align: center;
+  
+    
+}
+h1{
+    display: inline;
+    font-family: 'Limelight', cursive;
+    font-size: 40px;
+}
+
+.gamebar{
+    align-content: center;
+}
+
+.box{
+    background-color: rgb(255, 198, 198);
+    width: 200px;
+    height:200px;
+    float: left;
+    margin: 10px;
+    border-radius: 20px;
+    text-align: center;
+   
+}
+
+body{
+    background-image: linear-gradient(to bottom, rgb(144, 130, 161), rgb(255, 255, 255));
+    background-repeat: no-repeat;
+}
+
+.options{
+  margin: 0vw 25vw;
+}
+
+button{
+ font-family: 'Luckiest Guy', cursive;
+ font-size: 3rem;
+ background-color: rgba(205, 195, 209, 0.089);
+ color: blanchedalmond;
+ border-radius: 12px;
+ margin-left: 12rem;
+ border-color: rgba(255, 248, 220, 0.445);
+}
